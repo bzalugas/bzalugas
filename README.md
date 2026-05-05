@@ -7,4 +7,4 @@
 - :seedling: I'm currently working on ![42_Connect](https://github.com/bzalugas/Transcendence), a 42's students social media.
 - :airplane: I'm passionate about aviation & aerospace.
 - :computer: I'm currently focused on DevOps & embedded systems.
-- Connect with me on Linkedin: ![![linkedin_img](./img/linkedin.png)](https://www.linkedin.com/in/bastien-zalugas-5343a0232)
+- <img src="img/linkedin.png" alt="linkedin" width="15" /> Connect with me on ![Linkedin](https://www.linkedin.com/in/bastien-zalugas-5343a0232)
