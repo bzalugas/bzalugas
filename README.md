@@ -1,6 +1,6 @@
 # :wave: Hi there! I'm Bastien ZALUGAS
 
-## :student: I'm a computer engineer student at 42 school
+## :student: I'm a software engineer student at 42 school
 
 - :round_pushpin: Paris
 - :office: I'm searching for an internship in embedded systems.
